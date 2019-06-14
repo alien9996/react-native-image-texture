@@ -1,4 +1,10 @@
+#Logs
+*.log
 
+# Runtime data
+tmp
+build
+dist
 # OSX
 #
 .DS_Store
