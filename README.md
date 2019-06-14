@@ -76,18 +76,18 @@ RNImageTexture.getResourcesImageTexture({
 import RNImageTexture from 'react-native-image-texture';
 
 RNImageTexture.getResourcesImageTexture({
-			imageSource1: "/storage/emulated/0/Download/img.jpg",
-			imageSource2: "/storage/emulated/0/Download/img2.jpg",
-			dataType1: "Path",
-			dataType2: "Path",
-			textureType: 0,
-			isAccsets: false,
-			mode: 2
-          }, (source) => {
-				this.setState(imgBase64 : source.base64);
-				console.log("SOURCE", source);
-			// "source" returns the height, width and the Base64 string of the image.
-          });
+	imageSource1: "/storage/emulated/0/Download/img.jpg",
+	imageSource2: "/storage/emulated/0/Download/img2.jpg",
+	dataType1: "Path",
+	dataType2: "Path",
+	textureType: 0,
+	isAccsets: false,
+	mode: 2
+	}, (source) => {
+		this.setState(imgBase64 : source.base64);
+		console.log("SOURCE", source);
+	// "source" returns the height, width and the Base64 string of the image.
+	});
 ```
 **You will get the following result**
 
