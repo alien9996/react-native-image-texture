@@ -4,7 +4,7 @@
 **Libraries add mode lighting effects to your images**
 
 ## Demo
-![gif](https://github.com/alien9996/react-native-image-texture/blob/master/Texture.gif?raw=true)
+![gif](https://github.com/alien9996/library-gif/blob/main/Texture.gif?raw=true)
 
 ## Getting started
 
@@ -91,7 +91,7 @@ RNImageTexture.getResourcesImageTexture({
 ```
 **You will get the following result**
 
-![Demo1](https://github.com/alien9996/react-native-image-texture/blob/master/demo.png?raw=true)
+![Demo1](https://github.com/alien9996/library-gif/blob/main/demo.png?raw=true)
 
 ## Options
 
@@ -107,7 +107,7 @@ mode (int)|3|Select light mode, with values of 1, 2 and 3.
 
 ## Texture types
 
-![filterType](https://github.com/alien9996/react-native-image-texture/blob/master/texture_type.png?raw=true)
+![filterType](https://github.com/alien9996/library-gif/blob/main/texture_type.png?raw=true)
 
 ## Note
 - The image path you send into **imageSource1:''** and **imageSource2:''**  must be the absolute path. If you have problems with the absolute path, you can find the solution [here](https://stackoverflow.com/questions/52423067/how-to-get-absolute-path-of-a-file-in-react-native).
