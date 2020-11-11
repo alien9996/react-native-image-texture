@@ -9,7 +9,6 @@
 ## Getting started
 
 `$ npm install react-native-image-texture --save`
-
 <br />
 Or
 <br />
